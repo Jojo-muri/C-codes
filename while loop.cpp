@@ -1,3 +1,9 @@
+//while loop
+/*
+Name: George waweru
+Reg No:CT101\G\23698\2024
+Date:10.10.2024
+*/
 #include <stdio.h>
 int main (){
 	int start ,stop , sum =0 ;
