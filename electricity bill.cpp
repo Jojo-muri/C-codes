@@ -1,3 +1,9 @@
+//program to calculate electricity bill
+/*
+Name: George waweru
+Reg No:CT101\G\23698\2024
+Date:10.10.2024
+*/
 #include<stdio.h>
 int main (){
 	int customerID , unitsconsumed ;
