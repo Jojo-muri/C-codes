@@ -1,3 +1,9 @@
+//program to calculate electricity bill using a function
+/*
+Name: George waweru
+Reg No:CT101\G\23698\2024
+Date:15.10.2024
+*/
 #include<stdio.h>
  calculatebill(float unitsconsumed){
 float	chargesperunit ,totalbill=0;
